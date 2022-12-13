@@ -1,4 +1,4 @@
-package com.example.rss_aggregator.app.domain
+package com.example.rss_aggregator.domain
 
 class SaveRssUseCase(val repository: SourceRssRepository) {
 
