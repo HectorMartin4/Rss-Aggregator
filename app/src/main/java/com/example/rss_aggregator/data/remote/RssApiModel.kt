@@ -1,4 +1,4 @@
-package com.example.rss_aggregator.app.data.remote
+package com.example.rss_aggregator.data.remote
 
 import org.simpleframework.xml.*
 import java.util.*

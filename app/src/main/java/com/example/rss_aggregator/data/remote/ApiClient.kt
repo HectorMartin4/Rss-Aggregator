@@ -1,4 +1,4 @@
-package com.example.rss_aggregator.app.data.remote
+package com.example.rss_aggregator.data.remote
 
 import retrofit2.Retrofit
 import retrofit2.converter.simplexml.SimpleXmlConverterFactory
